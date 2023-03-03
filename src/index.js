@@ -1,5 +1,6 @@
-'use strict';
+"use strict";
 
+console.log("AAA");
 module.exports = {
   /**
    * An asynchronous register function that runs before
